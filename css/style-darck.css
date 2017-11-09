@@ -1,0 +1,13 @@
+body{
+    background: #000000;
+}
+nav {
+    border: 1px solid #ff2137;
+    
+}
+#navbarCollapse a{
+   color: #ff2137;
+}
+.navbar i{
+    font-size: 14px;
+}

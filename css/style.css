@@ -1,0 +1,46 @@
+body {
+   background-image: url('../img/stars-1436950_960_720.jpg');
+}
+
+.sin-padding-margin {
+    padding: 0;
+    margin: 0;
+}
+
+.eleccion {
+    background-image: url('../img/fondo_principal.jpg');
+    height: 100vh;
+    width: 100%;
+    background-position: center center;
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
+
+ h1 h3{
+    font-family: 'Cinzel', serif;
+    font-size: 1em;
+}
+.header  .color1 {
+    color: rgba(255, 0, 0, 0.823);
+
+}
+.header  .color2 {
+    color: rgba(0, 38, 255, 0.823);
+}
+.header .haz {
+    text-align: right;
+}
+
+.enlace1 h3 a {
+color: rgba(255, 0, 0, 0.898);
+float: left;
+}
+.enlace2 h3 a{
+color: rgba(0, 38, 255, 0.823);
+float: right;
+}
+.row .col-md-12 .col-xs-12 .col-sm-12{
+    padding: 0;
+    margin: 0;
+}

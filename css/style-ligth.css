@@ -1,0 +1,10 @@
+ nav {
+     border: 1px solid #17b7dc;
+     
+ }
+ #navbarCollapse a{
+    color: #17b7dc;
+ }
+ .navbar i{
+    font-size: 14px;
+}
